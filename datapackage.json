@@ -1,0 +1,58 @@
+{
+  "name": "package-with-ods-file
+  "resources": [
+    {
+      "name": "r-table-output-ods",
+      "type": "table",
+      "path": "https://raw.githubusercontent.com/fdtester/test-repo-with-ods-data-file/main/table-output.ods",
+      "scheme": "https",
+      "format": "ods",
+      "encoding": "utf-8",
+      "mediatype": "application/vnd.oasis.opendocument.spreadsheet",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "field3",
+            "type": "yearmonth"
+          },
+          {
+            "name": "field4",
+            "type": "yearmonth"
+          },
+          {
+            "name": "field5",
+            "type": "yearmonth"
+          },
+          {
+            "name": "field6",
+            "type": "yearmonth"
+          },
+          {
+            "name": "field7",
+            "type": "yearmonth"
+          },
+          {
+            "name": "field8",
+            "type": "yearmonth"
+          },
+          {
+            "name": "field9",
+            "type": "yearmonth"
+          },
+          {
+            "name": "field10",
+            "type": "yearmonth"
+          }
+        ]
+      }
+    }
+  ]
+}

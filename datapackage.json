@@ -1,5 +1,5 @@
 {
-  "name": "package-with-ods-file"
+  "name": "package-with-ods-file",
   "resources": [
     {
       "name": "r-table-output-ods",

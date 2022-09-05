@@ -1,10 +1,10 @@
 {
-  "name": "package-with-ods-file
+  "name": "package-with-ods-file"
   "resources": [
     {
       "name": "r-table-output-ods",
       "type": "table",
-      "path": "https://raw.githubusercontent.com/fdtester/test-repo-with-ods-data-file/main/table-output.ods",
+      "path": "table-output.ods",
       "scheme": "https",
       "format": "ods",
       "encoding": "utf-8",

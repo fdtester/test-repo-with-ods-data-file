@@ -2,9 +2,9 @@
   "name": "package-with-ods-file",
   "resources": [
     {
-      "name": "r-table-output-ods",
+      "name": "r-table-ods",
       "type": "table",
-      "path": "table-output.ods",
+      "path": "table.ods",
       "scheme": "https",
       "format": "ods",
       "encoding": "utf-8",

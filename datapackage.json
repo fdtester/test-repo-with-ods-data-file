@@ -18,38 +18,6 @@
           {
             "name": "name",
             "type": "string"
-          },
-          {
-            "name": "field3",
-            "type": "yearmonth"
-          },
-          {
-            "name": "field4",
-            "type": "yearmonth"
-          },
-          {
-            "name": "field5",
-            "type": "yearmonth"
-          },
-          {
-            "name": "field6",
-            "type": "yearmonth"
-          },
-          {
-            "name": "field7",
-            "type": "yearmonth"
-          },
-          {
-            "name": "field8",
-            "type": "yearmonth"
-          },
-          {
-            "name": "field9",
-            "type": "yearmonth"
-          },
-          {
-            "name": "field10",
-            "type": "yearmonth"
           }
         ]
       }
